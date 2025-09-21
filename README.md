@@ -37,7 +37,7 @@ Play against a baseline bot to sanity‑check your model:
 ```bash
 python src/evaluate_match.py --agent_a runs/checkpoint.pt --agent_b baseline_tracking
 ```
-Alternatively, you can use `src/render_match.py` to optionally **export MP4/GIF videos** of a match for debugging or just because it is sad to not render anything.
+Alternatively, you can use `src/render_match.py` to optionally **export MP4/GIF videos** of a match for debugging or just because it is sad not to render anything.
 
 ### 5) Prepare your submission folder
 Package the files described in **Expected deliverables** below. You can submit improved versions as many times as you like; only your **best** valid submission will count for the final score.
