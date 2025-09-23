@@ -1,5 +1,7 @@
 # WIMBLEDIANA
 
+## IMPORTANT: for instructions on delivery please refer to the guidelines in the [OBC challenge repo](https://github.com/team-diana/Recruitment-2025-OBC) 
+
 ![](./assets/pic.jpg)
 
 Alberto was having a great day playing beach tennis againt his less-than-stellar CS Dept. colleagues, when suddenly a stronger opponent showed up: DIANNIK SINNER.
